@@ -1,3 +1,1 @@
-# Del-test-public-repo-test
-
-The password for my repoo - *123*
+# Del-test-public-repo-test\n\nThis repository is used for test purposes.\n
